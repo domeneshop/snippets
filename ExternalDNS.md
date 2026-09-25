@@ -1,6 +1,6 @@
 # ExternalDNS webhooks
 
-One of our customers has been so gracious as to create full automation of DNS record creation for Kubernetes (K8s) clusters using a Goland provider:
+One of our customers has been so gracious as to create full automation of DNS record creation for Kubernetes (K8s) clusters using a Golang provider:
 
 https://github.com/cloudless-no/external-dns-domeneshop-webhook
 
